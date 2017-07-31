@@ -4,6 +4,9 @@ Advanced Programming (Java)
 
 Completed at Glendale Community College
 
+All programs were run through the NetBeans IDE
+
+
 This class went through and illustrated some topics that at the time were 
 very much beyond my skill level. I think that I needed this increased level of
 difficulty to learn as much as I did. When I think back to this class it was in my
