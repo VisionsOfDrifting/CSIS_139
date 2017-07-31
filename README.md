@@ -1,6 +1,7 @@
 # CSIS 139
 
 Advanced Programming (Java)
+
 Completed at Glendale Community College
 
 This class went through and illustrated some topics that at the time were 
